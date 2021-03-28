@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🤔Im learning C and i wanna learn Python and Web Design
 <!--
 **derpmagician/derpmagician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
