@@ -11,7 +11,7 @@ Habilidades: C / Python / Flask / Javascript / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/derpmagician)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derpmagician)](https://github.com/anuraghazra/github-readme-stats)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=derpmagician)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=derpmagician)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derpmagician)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
